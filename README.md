@@ -10,11 +10,11 @@ An overview of the features can be found in this playlist: https://www.youtube.c
 
 Размещенная версия https://alisetskii.github.io/Piskel-clone/
 
-install dependencies:
-npm i / npm install
+install dependencies: 
+**npm i / npm install**
 
-start dev server:
-npm run start
+start dev server: 
+**npm run start**
 
-build version for deployment
-npm run build
+build version for deployment: 
+**npm run build**
