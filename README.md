@@ -9,3 +9,12 @@ An overview of the features can be found in this playlist: https://www.youtube.c
 Задание:https://github.com/rolling-scopes-school/tasks/blob/2018-Q3/tasks/piskel-clone.md
 
 Размещенная версия https://alisetskii.github.io/Piskel-clone/
+
+install dependencies:
+npm i / npm install
+
+start dev server:
+npm run start
+
+build version for deployment
+npm run build
