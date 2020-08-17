@@ -1,2 +1,0 @@
-# Piskel-clone
- 
